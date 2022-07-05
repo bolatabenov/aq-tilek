@@ -1,0 +1,63 @@
+.aq-tilek1{
+    background-image: url(http://pavlyukpetr.com/projects/wedding-belle/img/header-bg.jpg);
+    width: auto;
+    height: 550px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text-center{
+    color: aliceblue;
+    font-family: 'Amatic SC';
+}
+.b1{
+    margin-top: 200px;
+    font-size: 40px;
+}
+.img-1{
+    background-image: url(https://s-english.ru/images/lilovik-2/benedikt-kamberbetch.jpg);
+    width: 200px;
+    height: 200px;
+    background-position:center center;
+    background-size: cover;
+    border-radius: 100px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;   
+}
+.h3{
+    margin: 20px;
+    margin-top: 100px;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.text-1{
+   text-align: center;
+}
+strong{
+    font-size: 25px;
+    margin: 40px;
+}
+.img-2{
+    background-image: url(https://assets.teenvogue.com/photos/61ddbccec24dade8ee70d413/master/pass/1235242212);
+    width: 200px;
+    height: 200px;
+    background-position:center center;
+    background-size: cover;
+    border-radius: 100px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;   
+}
+.container-xxl{
+    background-image: url(http://pavlyukpetr.com/projects/wedding-belle/img/gallery-3.jpg);
+    width: 100%;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
